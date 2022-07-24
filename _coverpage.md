@@ -1,7 +1,5 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
-
 # Plerion PBC ITA
 
 [Parti da qui](/home.md)
