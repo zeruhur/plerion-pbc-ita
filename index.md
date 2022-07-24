@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-Questa campagna play-by-chat asincrona è nata per playtestare [*Plerion*](https://*Plerion*.zeruhur.space/), il mio gioco d'avventura space opera basato su Cairn. Lo scopo secondario è gettare le fondamenta dell'ambientazione delle Cinque Galassie, teatro principale del gioco.
+Questa campagna play-by-chat asincrona è nata per playtestare [*Plerion*](https://plerion.zeruhur.space/), il mio gioco d'avventura space opera basato su Cairn. Lo scopo secondario è gettare le fondamenta dell'ambientazione delle Cinque Galassie, teatro principale del gioco.
 
 Caratteristiche principali:
 1. **Gioco asincrono**
@@ -44,11 +44,11 @@ Non è un universo umanocentrico, anzi tutt'altro. Quando gli esseri umani si af
 
 La campagna prende le mosse nell'Anno Sidereo 5.151.267 (corrispondente al 7.396 CE). 
 
-L'ambientazione implicita è abbozzata nel capitolo [Principles of the Universe](https://*Plerion*.zeruhur.space/#/002_principles?id=principles-of-the-universe) del regolamento.
+L'ambientazione implicita è abbozzata nel capitolo [Principles of the Universe](https://plerion.zeruhur.space/#/002_principles?id=principles-of-the-universe) del regolamento.
 
 ## Regolamento
 
-*Plerion* è un regolamento di space opera avventurosa derivato da Cairn (a sua volta derivato da Weird North, Mausritter, Into the Odd e Knave) e segue quindi un particolare stile di gioco che discende da D&D ma al contempo discostandosene. Il [regolamento è semplice](https://*Plerion*.zeruhur.space/#/015_rules_summary) e veloce da imparare. Non prevede tiro per colpire.
+*Plerion* è un regolamento di space opera avventurosa derivato da Cairn (a sua volta derivato da Weird North, Mausritter, Into the Odd e Knave) e segue quindi un particolare stile di gioco che discende da D&D ma al contempo discostandosene. Il [regolamento è semplice](https://plerion.zeruhur.space/#/015_rules_summary) e veloce da imparare. Non prevede tiro per colpire.
 
 ## Generazione dei personaggi
 La generazione dei personaggi segue il regolamento. L'uso degli archetipi è a discrezione del giocatore. È possibile tirare per l'acquisizione di talenti psionici o per gli impianti cibernetici (se è possibile pagarli).
@@ -72,7 +72,7 @@ Il formato sintetico di scheda personaggio è:
 
 ## Principi di gioco
 
-*Plerion* è un regolamento NSR e riprende i [principi di gioco](https://*Plerion*.zeruhur.space/#/002_principles) di Weird North e Cairn adattandoli al tema.
+*Plerion* è un regolamento NSR e riprende i [principi di gioco](https://*plerion.zeruhur.space/#/002_principles) di Weird North e Cairn adattandoli al tema.
 
 ## Media consigliati
 
