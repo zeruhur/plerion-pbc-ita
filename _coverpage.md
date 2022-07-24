@@ -4,6 +4,6 @@
 
 # Plerion PBC ITA
 
-[Get Started](#docsify)
+[Parti da qui](/home.md)
 
-![](_assets/universe-1408289.jpg)
+![](/_assets/universe-1408289.jpg)

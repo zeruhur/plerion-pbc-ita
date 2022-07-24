@@ -1,9 +1,3 @@
----
-layout: default
-title: Home
-nav_order: 1
----
-
 Questa campagna play-by-chat asincrona è nata per playtestare [*Plerion*](https://plerion.zeruhur.space/), il mio gioco d'avventura space opera basato su Cairn. Lo scopo secondario è gettare le fondamenta dell'ambientazione delle Cinque Galassie, teatro principale del gioco.
 
 Caratteristiche principali:
