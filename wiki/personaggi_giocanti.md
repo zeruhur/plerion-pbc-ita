@@ -52,3 +52,15 @@ Ferite: N/D
 Impianti: N/D
 Equipaggiamento: Razioni per 3 giorni, personal comm, Kit chirurgico (bulky, cura 1d8 HP), Razzi di segnalazione (bulky), pistola flechette (1d6, silenziosa), Synthetic Mesh (Armor 2)
 Veicoli: Veicolo Anfibio
+
+### Raskyo M'Drani
+**Ladruncolo, 35 anni - 1300 crediti**  
+F5 - D6 - V14 - HP6 - A2
+
+Tratti: Felino, Guaritore (healer), Originario di [Xilvar](/wiki/pianeti/xilvar.md) (pianeta a bassa gravità), Intuitivo (insightful), Abiti variopinti, Tollerante, Sospettoso, Dipendente (addicted - erba di Xilvar)  
+Poteri Psionici: nessuno  
+Ferite: nessuna
+
+Impianti: nessuno  
+Equipaggiamento: lama d'abbordaggio (d6, nascosta), armatura di fibra sintetica (A2), 3 razioni, comunicatore, tuta desertica (b), lightsticks  
+Veicoli: tracked explorer  
