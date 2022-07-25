@@ -1,0 +1,10 @@
+# Xilvar
+Xilvar è un piccolo pianeta lussureggiante della [Via Lattea](/wiki/galassie/vialattea.md), in orbita intorno a un sole giallo di un sistema binario di stelle. Grazie alla bassa gravità e alla gran quantità di luce (per metà dell'anno non esiste una vera notte ma solo una sorta di crepuscolo) la vegetazione raggiunge dimensioni colossali.
+
+Il sistema si trova ai confini dell'Egemonia Umana: non direttamente sotto il suo controllo, ma una sorta di protettorato commerciale. Esporta una grande varietà di prodotti vegetali (vari tipi di frutta, alghe, semi), e soprattutto la celebre l'Erba di Xilvar, usata dall'industria farmaceutica: sugli umani ha infatti straordinarie proprietà curative.
+
+I nativi, i Felinidi Xilvariani, sono di piccola taglia, pelosi, e ricordano dei grossi gatti, a parte la postura perlopiù eretta e le mani prensili. La loro saliva ha poteri lenitivi e rigeneranti.
+Benché siano stati raggiunti dalla tecnologia spaziale, la stragrande maggioranza di loro ha scelto di continuare a vivere secondo gli antichi usi tribali, basati sulla caccia e su una tecnologia poco più che medievale.
+Vivono tra gli alberi: molti di loro non hanno mai messo piede al suolo. La loro architettura ha uno sviluppo verticale. Tra le piattaforme non ci sono, in genere, scale né passerelle: si fa affidamento sulla bassa gravità unita alle spiccate capacità di salto.
+La loro società dà scarsissima importanza ai legami familiari, alla comunità e alle gerarchie formali, esaltando invece il singolo individuo. La ricchezza materiale e il successo nella caccia ti garantiscono prestigio, ma al primo segno di difficoltà tutti ti voltano le spalle.
+Sui Felinidi Xilvariani l'Erba di Xilvar ha effetti allucinogeni e stupefacenti. Chi ne fa uso va spesso incontro a una spirale di dipendenza, e al disprezzo generale.
