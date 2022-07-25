@@ -2,5 +2,6 @@
 
 Qui è possibile navigare i vari articoli sull'ambientazione della campagna
 
-* [Luoghi](/wiki/luoghi.md)
+* [Galassie](/wiki/galassie.md)
 * [Personaggi Giocanti](/wiki/personaggi_giocanti.md)
+* [Pianeti](/wiki/pianeti.md)
