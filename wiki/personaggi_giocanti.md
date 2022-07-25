@@ -20,7 +20,7 @@ Formato sintetico di scheda personaggio
 **Tecnico, 20 anni - 1300 sc**  
 F8 - D8 - V11 - HP1 - A2
 
-Tratti: Umanoide mutaforma, Empatico, Originario della colonia [Visner](luoghi/visner.md) (galassia di Andromeda), Abiti appariscenti, Onorevole, Rude, Tormentato  
+Tratti: Umanoide mutaforma, Empatico, Originario della colonia [Visner](/wiki/luoghi/visner.md) (galassia di Andromeda), Abiti appariscenti, Onorevole, Rude, Tormentato  
 Poteri Psionici: N/A  
 Ferite: N/D
 
@@ -33,7 +33,7 @@ Veicoli: Pallone aerostatico
 **Nobile, 36 anni - 1000 sc**  
 F13 - D9 - V8 - HP3  - A 3 
 
-Tratti: Quadrupede arrampicatore, Fortunato, Originario del pianeta [Minar](luoghi/minar.md) (vulcanico), Abiti casalinghi, Stoico, Amareggiato ("bitter"), Abbandonato  
+Tratti: Quadrupede arrampicatore, Fortunato, Originario del pianeta [Minar](/wiki/luoghi/minar.md) (vulcanico), Abiti casalinghi, Stoico, Amareggiato ("bitter"), Abbandonato  
 Poteri Psionici: N/A  
 Ferite: N/D
 
@@ -45,7 +45,7 @@ Veicoli: Mini Sub
 **Studente, 27 anni - 1300 cr**  
 F9 - D4 - V11 - HP3 - A2  
 
-Tratti: Transumano  Duro (Tough),  originario di [Ephestos](luoghi/ephestos.md) (High Tech world), abiti in pelle  Stoico  Sospettoso, Respinto  
+Tratti: Transumano  Duro (Tough),  originario di [Ephestos](/wiki/luoghi/ephestos.md) (High Tech world), abiti in pelle  Stoico  Sospettoso, Respinto  
 Poteri Psionici: N/A  
 Ferite: N/D
 
