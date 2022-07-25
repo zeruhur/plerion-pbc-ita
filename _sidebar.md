@@ -1,6 +1,6 @@
 * [Home](/)
 * [Manifesto](manifesto.md)
-* [Wiki](wiki/wikihome.md)
+* [Wiki](wiki.md)
   * Luoghi
     * [Galassie](/wiki/galassie.md)
     * [Pianeti](/wiki/pianeti.md)
