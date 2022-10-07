@@ -12,7 +12,7 @@ Caratteristiche principali:
 
 Il gioco sarà giocato in modalità asincrona:
 
-1. Il gioco si svolgerà sulla piattaforma di preferenza del gruppo con canali separati per l'organizzazione, il gioco del personaggio e la discussione fuori dal personaggio.
+1. Il gioco si svolgerà sul server [Discord Zotiquest](https://discord.gg/xrB7auKM3u) con canali separati per l'organizzazione, il gioco del personaggio e la discussione fuori dal personaggio.
 2. Il turno di gioco è definito da un round di azioni di tutti i personaggi in gioco e dalle risoluzioni dell'arbitro.
 3. È richiesta un'azione al giorno per ogni giocatore direttamente coinvolto nella "scena" corrente. L'inattività è consentita solo se la mancanza di azione non blocca il gioco di tutti i giocatori.
 4. Si possono giocare più azioni al giorno, in particolare le interazioni tra i personaggi. L'arbitro garantirà almeno una risoluzione al giorno.
